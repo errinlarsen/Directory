@@ -28,6 +28,10 @@ GEM
       ruby-rc4
       ttfunk
     ruby-rc4 (0.1.5)
+    simplecov (0.7.1)
+      multi_json (~> 1.0)
+      simplecov-html (~> 0.7.1)
+    simplecov-html (0.7.1)
     ttfunk (1.0.3)
 
 PLATFORMS
@@ -37,3 +41,4 @@ DEPENDENCIES
   httparty
   minitest
   prawn!
+  simplecov
