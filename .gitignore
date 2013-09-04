@@ -1,2 +1,8 @@
+*.gem
+.bundle
+*.swp
+vendor/bundle/
+.rspec
+coverage/
 notes.rb
 template.pdf
